@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="50mm"
+   viewBox="0 0 70 50.000001"
+   version="1.1"
+   id="svg237"
+   sodipodi:docname="4.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\slazowy\OneDrive - Szkola Glowna Sluzby Pozarniczej\SGSP\inkscape_zadania\svg\k5_laczone\4.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs231" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="158.91016"
+     inkscape:cy="107.52784"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2100"
+     inkscape:window-height="1234"
+     inkscape:window-x="106"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata234">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.730976,-127.60526)">
+    <rect
+       style="fill:#ffffff;stroke-width:1;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect14"
+       width="70.114586"
+       height="50.45982"
+       x="30.82547"
+       y="127.51077" />
+    <g
+       id="g551"
+       transform="matrix(1.4242208,0,0,1.4242208,-142.75328,-203.26936)">
+      <path
+         style="color:#000000;fill:#808080;stroke-width:0.499999;-inkscape-stroke:none;paint-order:fill markers stroke"
+         d="m 130.66663,242.33386 -7.5396,7.53908 7.5396,7.53959 h 39.07927 v -15.07867 z m 20.60236,3.41633 0.26458,2.87063 2.51458,1.40921 -2.64843,1.13895 -0.56327,2.82722 -1.90116,-2.16679 -2.86288,0.33796 1.47328,-2.4784 -1.20613,-2.61793 2.81173,0.63511 z m 9.21287,0 0.26511,2.87063 2.51458,1.40921 -2.64843,1.13895 -0.56327,2.82722 -1.90116,-2.16679 -2.8634,0.33796 1.4733,-2.4784 -1.20613,-2.61793 2.81223,0.63511 z"
+         id="path39120" />
+      <path
+         id="path39122"
+         style="color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;paint-order:fill markers stroke"
+         d="m 130.56328,242.08375 -0.0734,0.0734 -7.71631,7.71581 7.7897,7.7897 H 169.996 v -15.57889 z m 0.20669,0.50023 h 38.72582 v 14.57844 h -38.72582 l -7.28945,-7.28948 z m 20.08095,11.80755 0.13179,0.15037 0.03,-0.15037 z m 9.2134,0 0.13177,0.15037 0.03,-0.15037 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.85754px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0464387"
+         x="125.13892"
+         y="250.41747"
+         id="text27182"><tspan
+           sodipodi:role="line"
+           id="tspan27180"
+           style="fill:#ffffff;stroke-width:0.0464387"
+           x="125.13892"
+           y="250.41747">90°</tspan></text>
+    </g>
+  </g>
+</svg>
